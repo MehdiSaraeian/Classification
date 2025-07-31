@@ -19,6 +19,7 @@ Each scenario's directory (e.g., `01-logistic-regression/`) contains:
 4.  **04-xgboost**: High-performance classification with state-of-the-art Gradient Boosting.
 5.  **05-neural-networks**: A gentle introduction to deep learning for classification with TensorFlow/Keras.
 6.  **06-imbalance-and-shap**: Tackling real-world challenges like imbalanced data and model interpretability.
+7.  **07-adversarial-ml**: A deep dive into model security, learning how to fool models and how to defend them.
 
 ## Original Files
 
